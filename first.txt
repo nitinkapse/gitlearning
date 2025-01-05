@@ -1,3 +1,2 @@
 testing checkout functionality
 adding new line
-This is devops training
